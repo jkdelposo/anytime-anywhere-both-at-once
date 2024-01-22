@@ -1,2 +1,2 @@
 # to-timer
-takes time and location
+where and when, combined
